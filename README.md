@@ -43,6 +43,7 @@ Os ícones podem ser encontrados em http://www.alessioatzeni.com/meteocons/
 -   **Escolhas técnicas**: A escolha das bibliotecas, banco de dados, arquitetura, etc, é a melhor escolha para a aplicação?
 
 ## Dúvidas
+Envie um e-mail para diogo@bsconsult.com.br
 
 Boa sorte! ;)
 
