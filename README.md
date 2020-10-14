@@ -12,7 +12,7 @@ Note que existe um degradê sobreposto na imagem original, na verdade essa cor r
 
 A URL da imagem de fundo deve ser extraida da API do [Bing](https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=pt-BR)
 
-Para consultar a previsão do tempo, utilize a API do [Yahoo Weather] (https://developer.yahoo.com/weather/) informando o nome da localidade (Cidade e Estado). Crie as credenciais para sua conta.
+Para consultar a previsão do tempo, utilize a API do [Yahoo Weather] (https://developer.yahoo.com/weather/) informando o nome da localidade (Cidade). Crie as credenciais para sua conta.
 
 Para converter latitude e longitude use a Api do Google Maps.
 
