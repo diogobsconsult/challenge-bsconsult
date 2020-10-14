@@ -2,7 +2,7 @@
 Teste BS Consult
 
 
-Construa um microsite responsivo em SPA (_single-page application_) para mostrar a previsão do tempo nas localidades informadas na caixa de texto branca (na imagem de [exemplo](./exemplo_teste.png) é o local aonde aparece "Rio de Janeiro, Rio de Janeiro").
+Construa um microsite responsivo em SPA (_single-page application_) para mostrar a previsão do tempo nas localidades informadas na caixa de texto branca (na imagem de [exemplo](./exemplo_teste.png) é o local aonde aparece "São Paulo,SP").
 
 Logo que a página seja aberta deve ser coletada as coordenadas geográficas do usuário pela API do navegador para então ser descobrir o nome da cidade e estado via geocode do Google Maps.
 
